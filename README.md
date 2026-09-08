@@ -217,7 +217,7 @@ SOC Analyst — Home Lab Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/malaika-umbreen)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/MalaikaUmbreen)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/malaika-umbreen)
 
 ---
 
